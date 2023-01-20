@@ -51,6 +51,7 @@ linux
 linux-atm
 linux-firmware
 linux-firmware-marvell
+linux-headers
 livecd-sounds
 lsscsi
 lvm2
@@ -120,4 +121,7 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+yubikey-personalization
+zfs-dkms
+zfs-utils
 zsh
